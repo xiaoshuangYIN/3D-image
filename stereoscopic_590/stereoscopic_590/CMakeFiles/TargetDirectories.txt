@@ -1,0 +1,1 @@
+/home/sharon/2016_spring/stereoscopic_590/stereoscopic_590/CMakeFiles/stereo-depth.dir
